@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Test_DFD",
+    "owner": "Andrzej",
+    "description": "Test demo"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Peter"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Whistleblowing",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Anybody"
+  }
+}
